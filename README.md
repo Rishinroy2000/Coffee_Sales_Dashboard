@@ -29,17 +29,11 @@ To analyze and understand patterns in coffee sales between **March and July**, f
 
 ## 🖼️ Dashboard Preview
 
-![Coffee Sales Dashboard](https://github.com/your-username/Coffee-Sales-Dashboard/blob/main/Coffee%20sales%20dashboard%20ss.png)
-
-*📌 Replace the link above with the correct GitHub image path after uploading the screenshot.*
-
----
+![Coffee Sales Dashboard](https://github.com/Rishinroy2000/Coffee_Sales_Dashboard/blob/main/Coffee%20sales%20dashboard%20ss.png)
 
 ## 🗂 Data Source
 
-- 📄 [Download the dataset](https://your-dataset-link.com)
-
-*📌 Replace this with your actual dataset source or a GitHub raw file link, e.g., `https://github.com/your-username/Coffee-Sales-Dashboard/blob/main/coffee_sales_data.xlsx`*
+- 📄 [Download the dataset](https://drive.google.com/file/d/1YqP5Na7_o2xBwsFcf-0NTK31u5_EpxKC/view)
 
 ---
 
