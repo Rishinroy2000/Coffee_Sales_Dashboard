@@ -7,6 +7,12 @@ This project showcases how to analyze sales performance using interactive charts
 
 ---
 
+## 🗂 Data Source
+
+- 📄 [Download the dataset](https://drive.google.com/file/d/1YqP5Na7_o2xBwsFcf-0NTK31u5_EpxKC/view)
+
+---
+
 ## 📌 Objective
 
 To analyze and understand patterns in coffee sales between **March and July**, focusing on:
@@ -27,16 +33,6 @@ To analyze and understand patterns in coffee sales between **March and July**, f
 
 ---
 
-## 🖼️ Dashboard Preview
-
-![Coffee Sales Dashboard](https://github.com/Rishinroy2000/Coffee_Sales_Dashboard/blob/main/Coffee%20sales%20dashboard%20ss.png)
-
-## 🗂 Data Source
-
-- 📄 [Download the dataset](https://drive.google.com/file/d/1YqP5Na7_o2xBwsFcf-0NTK31u5_EpxKC/view)
-
----
-
 ## 🛠 Tools Used
 
 - **Excel/CSV** – assumed for raw data import and cleaning & for building and visualizing the dashboard
@@ -53,5 +49,7 @@ To analyze and understand patterns in coffee sales between **March and July**, f
 
 ---
 
-## 📂 File Structure
+## 🖼️ Dashboard Preview
+
+![Coffee Sales Dashboard](https://github.com/Rishinroy2000/Coffee_Sales_Dashboard/blob/main/Coffee%20sales%20dashboard%20ss.png)
 
