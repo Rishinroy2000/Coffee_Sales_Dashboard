@@ -13,6 +13,12 @@ This project showcases how to analyze sales performance using interactive charts
 
 ---
 
+## 🛠 Tools Used
+
+- **Excel/CSV** – assumed for raw data import and cleaning & for building and visualizing the dashboard
+
+---
+
 ## 📌 Objective
 
 To analyze and understand patterns in coffee sales between **March and July**, focusing on:
@@ -30,12 +36,6 @@ To analyze and understand patterns in coffee sales between **March and July**, f
 - **Weekday Trends**: Discover which days drive the highest traffic and purchases.
 - **Payment Mode Split**: Visual breakdown of card vs. cash usage.
 - **Interactive Filters**: Slice data by coffee type and payment mode.
-
----
-
-## 🛠 Tools Used
-
-- **Excel/CSV** – assumed for raw data import and cleaning & for building and visualizing the dashboard
 
 ---
 
