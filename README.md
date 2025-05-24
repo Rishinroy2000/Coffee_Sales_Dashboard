@@ -2,7 +2,7 @@
 I developed a comprehensive project in Excel, creating multiple tables and a dashboard to analyze the data. This process included several steps like data preprocessing, data cleaning and data visualization.
 # ☕ Coffee Sales Dashboard (March to July)
 
-📊 A Power BI dashboard visualizing coffee sales trends over five months.  
+📊 A MS Excel dashboard visualizing coffee sales trends over five months.  
 This project showcases how to analyze sales performance using interactive charts, slicers, and time-based metrics.
 
 ---
