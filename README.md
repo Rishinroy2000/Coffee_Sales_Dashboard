@@ -23,13 +23,13 @@ To analyze and understand patterns in coffee sales between **March and July**, f
 - **Coffee Type Purchases**: Identify which coffee variants sell the most.
 - **Weekday Trends**: Discover which days drive the highest traffic and purchases.
 - **Payment Mode Split**: Visual breakdown of card vs. cash usage.
-- **Interactive Filters**: Slice data by coffee name and payment type.
+- **Interactive Filters**: Slice data by coffee type and payment mode.
 
 ---
 
 ## 🖼️ Dashboard Preview
 
-![Coffee Sales Dashboard]()
+![Coffee Sales Dashboard](https://github.com/Rishinroy2000/Coffee_Sales_Dashboard/blob/main/Coffee%20sales%20dashboard%20ss.png)
 
 ## 🗂 Data Source
 
