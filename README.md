@@ -1,5 +1,8 @@
 # Coffee_Sales_Dashboard
 I developed a comprehensive project in Excel, creating multiple tables and a dashboard to analyze the data. This process included several steps like data preprocessing, data cleaning and data visualization.
+
+---
+
 # ☕ Coffee Sales Dashboard (March to July)
 
 📊 A MS Excel dashboard visualizing coffee sales trends over five months.  
@@ -52,4 +55,13 @@ To analyze and understand patterns in coffee sales between **March and July**, f
 ## 🖼️ Dashboard Preview
 
 ![Coffee Sales Dashboard](https://github.com/Rishinroy2000/Coffee_Sales_Dashboard/blob/main/Coffee%20sales%20dashboard%20ss.png)
+
+---
+
+## ⭐ How to Use
+
+1. Clone or download the repository  
+2. Open the `.xslx` file in Microsoft Excel  
+3. Explore the dashboard
+4. Use slicers and filters to analyze specific trends
 
